@@ -1,9 +1,1 @@
 dummy
-TY - 21
-Артём - 1960
-Artem - 1091
-Hyi - 3570
- - 1046
- - 3530
-Artem - 3700
-ArtemLost - 750
