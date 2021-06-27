@@ -15,3 +15,5 @@ Advanced medecine stops people from dying if the virus has a lethal trait.
 Painkillers - negotiate the effect of painfull virus trait.
 Differnt resist removers do exactly what they sound - removes Virus resists so it spread slower across the country.
 Burn corpses - stops the virus from spread through corpses.
+
+You can download CoronaSlayer.jar file and run it.
